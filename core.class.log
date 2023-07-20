@@ -1,0 +1,212 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50686911434@s.whatsapp.net',
+    fromMe: false,
+    id: 'A0C6C37B4529DAEDAD',
+    participant: undefined
+  },
+  messageTimestamp: 1689796293,
+  pushName: 'Gerald Picado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '50686911434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50686911434@s.whatsapp.net',
+    fromMe: false,
+    id: '893B33D0443AB3F24F',
+    participant: undefined
+  },
+  messageTimestamp: 1689796299,
+  pushName: 'Gerald Picado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '50686911434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50686911434@s.whatsapp.net',
+    fromMe: false,
+    id: '04060B93F4B5F05E13',
+    participant: undefined
+  },
+  messageTimestamp: 1689796307,
+  pushName: 'Gerald Picado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'g@s.com', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'g@s.com',
+  from: '50686911434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50686911434@s.whatsapp.net',
+    fromMe: false,
+    id: '00CD5C08F89032DAD1',
+    participant: undefined
+  },
+  messageTimestamp: 1689796318,
+  pushName: 'Gerald Picado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'gerpi@gmai.com',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gerpi@gmai.com',
+  from: '50686911434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50686911434@s.whatsapp.net',
+    fromMe: false,
+    id: '59DF869A090C57114F',
+    participant: undefined
+  },
+  messageTimestamp: 1689796337,
+  pushName: 'Gerald Picado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'gerpi.2666@gmail.com',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gerpi.2666@gmail.com',
+  from: '50686911434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50686911434@s.whatsapp.net',
+    fromMe: false,
+    id: '2CE783966F8A85FB97',
+    participant: undefined
+  },
+  messageTimestamp: 1689796360,
+  pushName: 'Gerald Picado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'gerpi.2666@gmail,com',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gerpi.2666@gmail,com',
+  from: '50686911434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50686911434@s.whatsapp.net',
+    fromMe: false,
+    id: '17EF2BB3CE2DC104F4',
+    participant: undefined
+  },
+  messageTimestamp: 1689796373,
+  pushName: 'Gerald Picado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pigmeo777@gmail.com',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pigmeo777@gmail.com',
+  from: '50686911434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50660875793@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF96AEEB88021B2A545',
+    participant: undefined
+  },
+  messageTimestamp: 1689796401,
+  pushName: 'R.R🧑🏻‍💻👨🏻‍🎓',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '50660875793'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50660875793@s.whatsapp.net',
+    fromMe: false,
+    id: '3A89FBE7CB7106372330',
+    participant: undefined
+  },
+  messageTimestamp: 1689796404,
+  pushName: 'R.R🧑🏻‍💻👨🏻‍🎓',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '50660875793'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50660875793@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABB442930517F5EF348',
+    participant: undefined
+  },
+  messageTimestamp: 1689796412,
+  pushName: 'R.R🧑🏻‍💻👨🏻‍🎓',
+  broadcast: false,
+  message: Message {
+    conversation: 'ricardo.o97@gmail.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ricardo.o97@gmail.com',
+  from: '50660875793'
+}
